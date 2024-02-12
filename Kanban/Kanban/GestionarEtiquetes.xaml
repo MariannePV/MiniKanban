@@ -1,0 +1,35 @@
+﻿<Window x:Class="Kanban.GestionarEtiquetes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kanban"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Gestió Etiquetes" Height="450" Width="300">
+    <!--BorderBrush="Black"-->
+    <!--BorderThickness="1"-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="50" />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0" Name="etiquetasListBox" Margin="10">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Border Width="20" Height="20" Background="{Binding color}" Margin="5" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding nom}" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Column="1">
+            <Button Content="+" FontSize="28" VerticalAlignment="Center" Background="Transparent" BorderBrush="Transparent" Margin="0,0,0,10" Click="CrearEtiqueta_Click"/>
+            <Image Height="18" Width="18" Source="Images/eliminar.png" MouseLeftButtonDown="EsborrarEtiqueta"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

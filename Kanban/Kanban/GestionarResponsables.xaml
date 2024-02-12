@@ -1,0 +1,99 @@
+﻿<Window x:Class="Kanban.GestionarResponsables"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kanban"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Kanban - Gestió de responsables" Height="650" Width="1200">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="80" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="Id" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="6, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="1" Text="Nom usuari" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="2" Text="Nom" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="3" Text="Cognoms" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="4" Text="Email" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="5" Text="Dni" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="6" Text="Data naixement" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+            <TextBlock Grid.Column="7" Text="Nivell" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"  Margin="10, 0, 0, 0" FontWeight="Bold"/>
+        </Grid>
+
+        <ListBox Grid.Row="1" Name="llistaResponsables" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" SelectionChanged="llistaSeleccionada_SelectedIndexChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" BorderBrush="Black" BorderThickness="0.2" Name="borderId">
+                            <TextBlock Grid.Column="0" Loaded="txtID" Visibility="Visible" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Text="{Binding Id}"/>
+                        </Border>
+
+                        <Border Grid.Column="1" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding NomUsuari}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+
+                        <Border Grid.Column="2" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding Nom}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+
+                        <Border Grid.Column="3" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding Cognoms}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+
+                        <Border Grid.Column="4" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding Email}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+
+                        <Border Grid.Column="5" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding Dni}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+
+                        <Border Grid.Column="6" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding DataNaix, StringFormat='{}{0:dd/MM/yyyy}'}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+                        <Border Grid.Column="7" BorderBrush="Black" BorderThickness="0.2">
+                            <TextBlock Text="{Binding Nivell}"  HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+                        </Border>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Grid.Column="1" Grid.RowSpan="2">
+            <Button Content="+" FontSize="28" Background="Transparent" BorderBrush="Transparent" Click="CrearResponsables"/>
+            <Image Name="EditarUsuari" Height="25" Width="25" Source="Images/edit.png" Margin="0, 15, 0, 0" MouseLeftButtonDown="EditarResponsable"/>
+            <Image Name="EliminarUsuari" Height="25" Width="25" Source="Images/eliminar.png" Margin="0, 22, 0, 0" MouseLeftButtonDown="EsborrarResponsable"/>
+        </StackPanel>
+    </Grid>
+</Window>

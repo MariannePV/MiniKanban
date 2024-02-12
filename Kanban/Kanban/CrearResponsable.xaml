@@ -1,0 +1,136 @@
+﻿<Window x:Class="Kanban.CrearResponsable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:Kanban"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown"
+        ResizeMode="NoResize"
+        BorderBrush="Black"
+        BorderThickness="1"
+        Title="Crear Responsable" Height="330" Width="450">
+    <Window.Resources>
+        <Style x:Key="btnStyle" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="LightGray"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="Black" BorderThickness="0" CornerRadius="15">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Cursor" Value="Hand"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="15">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                    <TextBlock FontSize="16" Margin="0,0,10,0">Nom d'usuari:</TextBlock>
+                    <TextBox Name="txtNomUsuari" Width="250" BorderThickness="1.5">
+                        <TextBox.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="8"/>
+                            </Style>
+                        </TextBox.Resources>
+                    </TextBox>
+                </StackPanel>
+
+                <Button Content="X" Background="Transparent" Foreground="#232526" BorderBrush="Transparent"
+        Width="30" Height="30" FontSize="24" VerticalAlignment="Top"
+        Margin="0,-9,5,0" Click="CerrarVentana_Click" Grid.Column="1" Style="{StaticResource btnStyle}"/>
+            </Grid>
+            <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                <TextBlock FontSize="16" Margin="0,0,10,0">Nom:</TextBlock>
+                <TextBox Name="txtNom" Width="250" BorderThickness="1.5">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                <TextBlock FontSize="16" Margin="0,0,10,0">Cognoms:</TextBlock>
+                <TextBox Name="txtCognoms" Width="250" BorderThickness="1.5">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                <TextBlock FontSize="16" Margin="0,0,10,0">Email:</TextBlock>
+                <TextBox Name="txtEmail" Width="250" BorderThickness="1.5">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                <TextBlock FontSize="16" Margin="0,0,10,0">NIF / NIE:</TextBlock>
+                <TextBox Name="txtDni" Width="200" BorderThickness="1.5">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                <TextBlock FontSize="16" Margin="0,0,10,0">Data naixement:</TextBlock>
+                <DatePicker Name="selectedDate" FirstDayOfWeek="Monday" BorderThickness="1.2">
+                    <DatePicker.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </DatePicker.Resources>
+                </DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin ="0,0,0,10">
+                <TextBlock FontSize="16" Margin="0,0,10,0">Nova contrasenya:</TextBlock>
+                <PasswordBox Name="pwPassword" Width="250" BorderThickness="1.5">
+                    <PasswordBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </PasswordBox.Resources>
+                </PasswordBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="16" Margin="0,0,10,0">Nivell:</TextBlock>
+                <ComboBox Name="cmbNivell" Height="24" SelectedIndex="0">
+                    <ComboBoxItem Content="1 Admin"/>
+                    <ComboBoxItem Content="2 SuperUser"/>
+                    <ComboBoxItem Content="3 User"/>
+                    <ComboBoxItem Content="4 Viewer"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="lblError" Foreground="Red" Margin="0,5,10,0" FontSize="10" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Guardar" Background="Transparent" Foreground="Green" BorderBrush="Transparent"
+                FontSize="16" Click="Guardar_Click" FontWeight="Bold" Style="{StaticResource btnStyle}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

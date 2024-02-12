@@ -1,0 +1,10 @@
+﻿<Application x:Class="Kanban.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Kanban"
+             StartupUri="Login.xaml">
+    <!-- Canviem el xaml amb el que començarà l'execució del programa, per defecte és MainWindow.xaml i ho canviem a Login.xaml -->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

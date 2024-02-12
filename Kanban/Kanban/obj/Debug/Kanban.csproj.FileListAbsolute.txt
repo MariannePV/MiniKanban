@@ -1,0 +1,429 @@
+C:\Github\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Github\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Github\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Github\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Github\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Github\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Github\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Github\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Github\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Github\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Github\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\USER\Desktop\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\USER\Desktop\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\USER\Desktop\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\maria\Desktop\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\maria\Desktop\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\maria\Desktop\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\USER\Desktop\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Google.Protobuf.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\MySql.Data.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Buffers.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.IO.Pipelines.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Memory.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\ZstdSharp.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Google.Protobuf.pdb
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Google.Protobuf.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\MySql.Data.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Buffers.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.IO.Pipelines.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Memory.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearEtiqueta.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\GestionarEtiquetes.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Login.g.cs
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\CrearEtiqueta.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\GestionarEtiquetes.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Login.baml
+C:\Users\maria\Desktop\DAM\2n DAM\M13 - Projecte\MiniProjecte\Kanban\Kanban\obj\Debug\Kanban.csproj.CopyComplete
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Google.Protobuf.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\MySql.Data.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Buffers.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Memory.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\ZstdSharp.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Google.Protobuf.pdb
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Google.Protobuf.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\MySql.Data.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Buffers.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Memory.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearEtiqueta.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\GestionarEtiquetes.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Login.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\CrearEtiqueta.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\GestionarEtiquetes.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Login.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\obj\Debug\Kanban.csproj.CopyComplete
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Memory.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\ZstdSharp.dll
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.pdb
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Memory.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Login.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Login.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CopyComplete
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\Newronia\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Memory.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\ZstdSharp.dll
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.pdb
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Memory.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Login.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Login.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CopyComplete
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\nilvi\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Memory.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\ZstdSharp.dll
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.pdb
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Memory.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Login.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Login.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CopyComplete
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\maria\Desktop\Kanban\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Kanban.pdb
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Memory.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\ZstdSharp.dll
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.pdb
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Google.Protobuf.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\MySql.Data.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Buffers.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Memory.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.AssemblyReference.cache
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Login.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\MainWindow.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\App.g.cs
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.cache
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban_MarkupCompile.lref
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearEtiqueta.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearResponsable.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearTasca.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\CrearTauler.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\GestionarEtiquetes.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\GestionarResponsables.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Login.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\MainWindow.baml
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.g.resources
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.csproj.CopyComplete
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\nilvi\Desktop\Kanbans\Kanban\Kanban\Kanban\obj\Debug\Kanban.pdb

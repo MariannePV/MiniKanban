@@ -1,0 +1,178 @@
+﻿<Window x:Class="Kanban.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kanban"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Kanban" Height="682" Width="1200">
+    <Window.Resources>
+        <Style TargetType="{x:Type ListBoxItem}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                        <Border x:Name="Bd" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Padding="{TemplateBinding Padding}" SnapsToDevicePixels="true">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="true">
+                                <Setter Property="Background" TargetName="Bd" Value="Transparent"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="80" />
+        </Grid.ColumnDefinitions>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Name="UsuariAutentificat" Text="{Binding Responsable.NomUsuari}" VerticalAlignment="Center" FontSize="20" FontFamily="Bahnschrift Light" Foreground="DarkBlue" Padding="10" Margin="10">                           
+            </TextBlock>
+
+            <ListBox Grid.Row="1" Name="llistaTaulers" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled" Drop="ListBox_Drop" AllowDrop="True">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="{Binding color}" BorderThickness="1" Margin="10" CornerRadius="10" Width="300px" Height="550px" Background="#d9d9d9">
+                            <StackPanel>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="80" />
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <TextBlock Text="{Binding titol}" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" FontFamily="Bahnschrift Light" Padding="0, 20, 0, 0"/>
+                                    <TextBlock Text="{Binding id}" Visibility="Collapsed" Name="txt_idTauler"/>
+                                    <!--<Button Grid.Row="0" FontSize="28" HorizontalAlignment="Right" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Margin="0, 0, 10, 0" Click="EditarTauler">⁝</Button>-->
+
+                                    <Menu Name="menuTauler" Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Margin="0, 0, 10, 0" Loaded="MenuTauler_Loaded">
+                                        <MenuItem Header="⁝" FontSize="28" Background="Transparent" BorderBrush="Transparent">
+                                            <MenuItem Header="Editar" Click="EditarTauler" FontSize="14">
+                                                <MenuItem.Icon>
+                                                    <Image Source="/Images/edit.png" Width="16" Height="16"/>
+                                                </MenuItem.Icon>
+                                            </MenuItem>
+                                            <MenuItem Header="Ordenar tauler" FontSize="15">
+                                                <MenuItem Header="Prioritat" Click="OrdenarTauler" FontSize="14">
+                                                    <MenuItem.Icon>
+                                                        <Image Source="/Images/upper-arrow-fragmented.jpg" Width="20" Height="20"/>
+                                                    </MenuItem.Icon>
+                                                </MenuItem>
+                                                <MenuItem Header="Ordre alfabètic descendent" Click="OrdenarTauler" FontSize="14">
+                                                    <MenuItem.Icon>
+                                                        <Image Source="/Images/A-Z.png" Width="16" Height="16"/>
+                                                    </MenuItem.Icon>
+                                                </MenuItem>
+                                                <MenuItem Header="Data de finalització" Click="OrdenarTauler" FontSize="14">
+                                                    <MenuItem.Icon>
+                                                        <Image Source="/Images/data-finalitzacio.png" Width="16" Height="16"/>
+                                                    </MenuItem.Icon>
+                                                </MenuItem>
+                                            </MenuItem>
+                                        </MenuItem>
+                                    </Menu>
+
+                                </Grid>
+                                <ListBox ItemsSource="{Binding Tasques}" PreviewMouseLeftButtonDown="selectedItemLlistaTaulers" MouseMove="ListBox_MouseMove" Drop="ListBox_Drop" AllowDrop="True" Background="Transparent" BorderBrush="Transparent" MinHeight="550px">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border BorderBrush="{Binding ColorFons}" BorderThickness="2" Margin="5" CornerRadius="10" Background="White" Width="270px" Padding="10, 10, 0, 10">
+                                                <StackPanel>
+                                                    <Grid Margin="5,0,5,0">
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="*" />
+                                                            <ColumnDefinition Width="Auto" />
+                                                        </Grid.ColumnDefinitions>
+                                                        <TextBlock Text="{Binding title}" FontWeight="Bold" Grid.Column="0"/>
+                                                        <Menu Name="MenuTasca" Grid.Column="1" Background="Transparent" BorderBrush="Transparent" FontWeight="Normal" FontSize="14" Loaded="MenuTasca_Loaded">
+                                                            <MenuItem Header="⁝">
+                                                                <MenuItem Header="Editar" Click="EditarTasca_Click">
+                                                                    <MenuItem.Icon>
+                                                                        <Image Source="/Images/edit.png" Width="16" Height="16"/>
+                                                                    </MenuItem.Icon>
+                                                                </MenuItem>
+                                                                <MenuItem Header="Eliminar" Click="EliminarTasca_Click">
+                                                                    <MenuItem.Icon>
+                                                                        <Image Source="/Images/delete.png" Width="16" Height="16"/>
+                                                                    </MenuItem.Icon>
+                                                                </MenuItem>
+                                                            </MenuItem>
+                                                        </Menu>
+                                                    </Grid>
+                                                    <!-- Descripción truncada a una línea -->
+                                                    <TextBlock Text="{Binding description}" TextTrimming="WordEllipsis" MaxHeight="16" Margin="5,0,15,7"/>
+                                                    <!-- Etiqueta -->
+                                                    <ItemsControl ItemsSource="{Binding etiquetes}" Margin="0,0,0,5">
+                                                        <ItemsControl.ItemTemplate>
+                                                            <DataTemplate>
+                                                                <Border Background="{Binding color}" CornerRadius="5" Margin="0,0,5,0">
+                                                                    <TextBlock Text="{Binding nom}" FontStyle="Italic" FontWeight="Medium" Padding="5, 2, 5, 3" Foreground="White"/>
+                                                                </Border>
+                                                            </DataTemplate>
+                                                        </ItemsControl.ItemTemplate>
+                                                        <ItemsControl.ItemsPanel>
+                                                            <ItemsPanelTemplate>
+                                                                <StackPanel Orientation="Horizontal"/>
+                                                            </ItemsPanelTemplate>
+                                                        </ItemsControl.ItemsPanel>
+                                                    </ItemsControl>
+                                                    <!-- Data de finalización -->
+                                                    <StackPanel Orientation="Horizontal">
+                                                        <TextBlock Text="{Binding dataFinalitzacio, StringFormat='yyyy-MM-dd'}" Margin="5,0,5,0"/>
+                                                        <!-- Nombre del responsable en la esquina inferior izquierda -->
+                                                        <TextBlock Text="{Binding responsable.NomUsuari}"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="80,0,5,5"/>
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+
+        </Grid>
+
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <Image Height="23" Width="23" Source="Images/signOut.png" Margin="0, 6, 0, 10" MouseLeftButtonDown="LogOut" />
+                <Menu Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Background="Transparent" BorderBrush="Transparent" >
+                    <MenuItem Name="MenuCrear" Header="+" FontSize="28" Background="Transparent" BorderBrush="Transparent">
+                        <MenuItem Header="_Crear una nova tasca" FontSize="15" Click="CrearTasca"/>
+                        <MenuItem Header="_Crear un nou tauler" FontSize="15" Click="CrearTauler"/>
+                    </MenuItem>
+                </Menu>
+                <Image Name="ButtonResponsable" Height="30" Width="30" Source="Images/ResponsablesLogo.png" Margin="0, 15, 0, 0" MouseLeftButtonDown="GestionarResponsables"/>
+                <Image Name="ButtonEtiqueta" Height="30" Width="30" Source="Images/label.png" Margin="0, 18, 0, 0" MouseLeftButtonDown="GestionarEtiquetes_Mouse" />
+            </StackPanel>
+
+            <Button Name="update" Grid.Row="1" Content="Actualitza" Visibility="Collapsed" Click="ActualitzarKanban"/>
+
+        </Grid>
+    </Grid>
+</Window>
